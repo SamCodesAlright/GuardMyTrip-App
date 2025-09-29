@@ -56,7 +56,7 @@ The following features will be implemented in future releases:
    ```bash
    npm run dev
    ```
-   The application will be available at `https://guardmytripp.netlify.app/`
+   The application will be available at `http://localhost:8081/`
 
 ## Built With
 
