@@ -6,20 +6,8 @@
 
 Note: This is a UI prototype of GuardMyTrip. It represents the design and user flow of our future application but does not yet include backend services, real-time data, or production-ready features.
 
-## About GuardMyTrip
-GuardMyTrip is envisioned as a modern travel safety platform that will help tourists stay safe and informed during their journeys.
 
-- Interactive map showing safety ratings for destinations
-- Real-time travel alerts and advisories
-- Emergency contact information by country
-- Responsive design for all devices
-- Secure user authentication and data protection
-- Safety statistics and travel recommendations
-
-This prototype demonstrates the look, feel, and navigation flow of the upcoming application.
-
-
-## Prototype Features (UI Only)
+## GuardMyTrip App Prototype Features (UI Only)
 GuardMyTrip is envisioned as a modern travel safety platform that will help tourists stay safe and informed during their journeys.
 
 - Interactive map (mock safety ratings for destinations)
@@ -32,17 +20,15 @@ GuardMyTrip is envisioned as a modern travel safety platform that will help tour
 This prototype demonstrates the look, feel, and navigation flow of the upcoming application.
 
 
-## PFuture Scope
+## Future Scope
 The following features will be implemented in future releases:
 
-- Generating Blochain-based Digital ID at the arrival of tourist at Airport / Hotels using Passport / Aadhar Card
-- Real-time travel alerts powered by live APIs
-- Geo-location tracking for personalized safety updates   
+- Generating Blockhain-based Digital ID at the arrival of tourists at Airport / Hotels using Passport / Aadhar Card
 - Secure user authentication & profile management
+- Real-time travel alerts & Geo-location tracking for personalized safety updates   
 - Integrating AI features to generate alerts and e-fir when any anomalies are detected.
-- Integrating of AI agents to automate anomaly detection, incident response, and multilingual assistance, making the system more proactive, intelligent, and user-friendly
 - Database integration for storing user data & reports
-- Dynamic safety statistics with AI-driven recommendations
+- Integrating of AI agents to automate anomaly detection, incident response, and multilingual assistance, making the system more proactive, intelligent, and user-friendly
 
 
 ## Getting Started
@@ -70,7 +56,7 @@ The following features will be implemented in future releases:
    ```bash
    npm run dev
    ```
-   The application will be available at `http://localhost:5173`
+   The application will be available at `https://guardmytripp.netlify.app/`
 
 ## Built With
 
@@ -115,10 +101,4 @@ guardmytrip/
 Sameer Shaikh - sameeritis10@gmail.com
 
 UI Prototype Link: [https://guardmytripp.netlify.app/](https://guardmytripp.netlify.app/)
-
-- [Mapbox](https://www.mapbox.com/) for the mapping services
-- [Shadcn UI](https://ui.shadcn.com/) for the beautiful components
-- All the open-source libraries that made this project possible
-=======
-App for Tourist Prototype of UI -> https://guardmytripp.netlify.app/
 >>>>>>> bfaddde1ad303f1d177bb6bd610281f6c08f1885
