@@ -1,73 +1,111 @@
-# Welcome to your Lovable project
+# GuardMyTrip - Travel Safety Application
 
-## Project info
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6.svg)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-4.4.5-646CFF.svg)](https://vitejs.dev/)
 
-**URL**: https://lovable.dev/projects/eff19f57-45f6-45a9-bb7c-de459dce0eb9
+GuardMyTrip is a modern web application designed to enhance travel safety by providing real-time safety information, emergency contacts, and location-based alerts for travelers worldwide.
 
-## How can I edit this code?
+## ✨ Features
 
-There are several ways of editing your application.
+- 🌍 Interactive map showing safety ratings for destinations
+- 🔔 Real-time travel alerts and advisories
+- 🚨 Emergency contact information by country
+- 📱 Responsive design for all devices
+- 🔒 Secure user authentication and data protection
+- 📊 Safety statistics and travel recommendations
 
-**Use Lovable**
+## 🚀 Getting Started
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/eff19f57-45f6-45a9-bb7c-de459dce0eb9) and start prompting.
+### Prerequisites
 
-Changes made via Lovable will be committed automatically to this repo.
+- Node.js 16.14.0 or later
+- npm 8.0.0 or later
+- Git
 
-**Use your preferred IDE**
+### Installation
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/guardmytrip.git
+   cd guardmytrip
+   ```
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-Follow these steps:
+3. **Set up environment variables**
+   Create a `.env` file in the root directory and add the required environment variables:
+   ```env
+   VITE_API_BASE_URL=your_api_base_url
+   VITE_MAPBOX_ACCESS_TOKEN=your_mapbox_access_token
+   ```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+4. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+   The application will be available at `http://localhost:5173`
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🛠 Built With
 
-# Step 3: Install the necessary dependencies.
-npm i
+- [React](https://reactjs.org/) - JavaScript library for building user interfaces
+- [TypeScript](https://www.typescriptlang.org/) - Typed superset of JavaScript
+- [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
+- [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
+- [React Map GL](https://visgl.github.io/react-map-gl/) - React components for Mapbox GL JS
+- [Zustand](https://github.com/pmndrs/zustand) - State management
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+## 📂 Project Structure
+
+```
+guardmytrip/
+├── public/            # Static files
+├── src/
+│   ├── assets/        # Images, fonts, and other assets
+│   ├── components/    # Reusable UI components
+│   ├── hooks/         # Custom React hooks
+│   ├── lib/           # Utility functions and configurations
+│   ├── pages/         # Page components
+│   ├── store/         # State management
+│   ├── styles/        # Global styles and theme
+│   ├── types/         # TypeScript type definitions
+│   ├── App.tsx        # Main application component
+│   └── main.tsx       # Application entry point
+├── .eslintrc.js       # ESLint configuration
+├── .gitignore         # Git ignore file
+├── index.html         # HTML template
+├── package.json       # Project dependencies and scripts
+├── tailwind.config.js # Tailwind CSS configuration
+└── tsconfig.json      # TypeScript configuration
 ```
 
-**Edit a file directly in GitHub**
+## 🤝 Contributing
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-**Use GitHub Codespaces**
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📄 License
 
-## What technologies are used for this project?
+Distributed under the MIT License. See `LICENSE` for more information.
 
-This project is built with:
+## 📧 Contact
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
-## How can I deploy this project?
+Project Link: [https://github.com/yourusername/guardmytrip](https://github.com/yourusername/guardmytrip)
 
-Simply open [Lovable](https://lovable.dev/projects/eff19f57-45f6-45a9-bb7c-de459dce0eb9) and click on Share -> Publish.
+## 🙏 Acknowledgments
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- [Mapbox](https://www.mapbox.com/) for the mapping services
+- [Shadcn UI](https://ui.shadcn.com/) for the beautiful components
+- All the open-source libraries that made this project possible
