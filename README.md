@@ -4,7 +4,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6.svg)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-4.4.5-646CFF.svg)](https://vitejs.dev/)
 
-Note: This is a UI prototype of GuardMyTrip. It represents the design and user flow of our future application but does not yet include backend services, real-time data, or production-ready features.
+Note: This is a UI prototype of GuardMyTrip WebApp. It represents the design and user flow of our future application but does not yet include backend services, real-time data, or production-ready features.
 
 
 ## GuardMyTrip App Prototype Features (UI Only)
@@ -91,10 +91,6 @@ guardmytrip/
 ├── tailwind.config.js # Tailwind CSS configuration
 └── tsconfig.json      # TypeScript configuration
 ```
-
-## Prototype Screenshots
-<table> <tr> <td align="center"> <img src="./screenshots/map.png" alt="Map Page" width="300"/><br/> <b>🗺️ Map Page</b><br/> Interactive map with mock safety ratings. </td> <td align="center"> <img src="./screenshots/alerts.png" alt="Alerts Page" width="300"/><br/> <b>🚨 Alerts Page</b><br/> Placeholder travel advisories and updates. </td> </tr> <tr> <td align="center"> <img src="./screenshots/emergency.png" alt="Emergency Contacts" width="300"/><br/> <b>📞 Emergency Contacts</b><br/> UI for emergency contact info by country. </td> <td align="center"> <img src="./screenshots/login.png" alt="Login Page" width="300"/><br/> <b>🔐 Login Page</b><br/> Mock authentication flow for the prototype. </td> </tr> </table>
-
 
 ## Contact
 
