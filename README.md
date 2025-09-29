@@ -97,4 +97,3 @@ guardmytrip/
 Sameer Shaikh - sameeritis10@gmail.com
 
 UI Prototype Link: [https://guardmytripp.netlify.app/](https://guardmytripp.netlify.app/)
->>>>>>> bfaddde1ad303f1d177bb6bd610281f6c08f1885
