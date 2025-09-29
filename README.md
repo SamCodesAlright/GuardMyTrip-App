@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GuardMyTrip - Travel Safety Application
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -109,3 +110,6 @@ Project Link: [https://github.com/yourusername/guardmytrip](https://github.com/y
 - [Mapbox](https://www.mapbox.com/) for the mapping services
 - [Shadcn UI](https://ui.shadcn.com/) for the beautiful components
 - All the open-source libraries that made this project possible
+=======
+App for Tourist Prototype of UI -> https://guardmytripp.netlify.app/
+>>>>>>> bfaddde1ad303f1d177bb6bd610281f6c08f1885
