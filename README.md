@@ -43,8 +43,8 @@ The following features will be implemented in future releases:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/guardmytrip.git
-   cd guardmytrip
+   git clone https://github.com/yourusername/GuardMyTrip-App.git
+   cd GuardMyTrip-App
    ```
 
 2. **Install dependencies**
