@@ -6,6 +6,8 @@
 
 Note: This is a UI prototype of GuardMyTrip WebApp. It represents the design and user flow of our future application but does not yet include backend services, real-time data, or production-ready features.
 
+UI Prototype Link: [https://guardmytripp.netlify.app/](https://guardmytripp.netlify.app/)
+
 
 ## GuardMyTrip App Prototype Features (UI Only)
 GuardMyTrip is envisioned as a modern travel safety platform that will help tourists stay safe and informed during their journeys.
@@ -92,8 +94,4 @@ guardmytrip/
 └── tsconfig.json      # TypeScript configuration
 ```
 
-## Contact
 
-Sameer Shaikh - sameeritis10@gmail.com
-
-UI Prototype Link: [https://guardmytripp.netlify.app/](https://guardmytripp.netlify.app/)
