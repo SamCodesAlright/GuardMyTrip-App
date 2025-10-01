@@ -8,7 +8,7 @@ Note: This is a UI prototype of GuardMyTrip WebApp. It represents the design and
 
 UI Prototype Link: [https://guardmytripp.netlify.app/](https://guardmytripp.netlify.app/)
 
-Video Explanation of Prototype Link: [https://www.loom.com/share/92d95c1f944f4014ac077067d97d549a?sid=6487332d-e76f-444c-8bd4-c16f49334405](https://www.loom.com/share/92d95c1f944f4014ac077067d97d549a?sid=6487332d-e76f-444c-8bd4-c16f49334405)
+Video Explanation of Prototype: [https://www.loom.com/share/92d95c1f944f4014ac077067d97d549a?sid=6487332d-e76f-444c-8bd4-c16f49334405](https://www.loom.com/share/92d95c1f944f4014ac077067d97d549a?sid=6487332d-e76f-444c-8bd4-c16f49334405)
 
 
 ## GuardMyTrip App Prototype Features (UI Only)
